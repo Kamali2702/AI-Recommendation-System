@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>AI Recommendation Pro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>&#129302; AI Recommendation Pro</h1>
+
+    <input type="text" id="search" placeholder="Search...">
+
+    <select id="category">
+        <option value="all">All</option>
+        <option value="gaming">Gaming &#127918;</option>
+        <option value="study">Study &#128218;</option>
+        <option value="music">Music &#127911;</option>
+        <option value="fitness">Fitness &#128170;</option>
+    </select>
+
+    <br>
+
+    <button onclick="recommend()">Show Items</button>
+
+    <h2>&#11088; Favorites</h2>
+    <div class="container" id="favorites"></div>
+
+    <h2>&#128230; Results</h2>
+    <div class="container" id="result"></div>
+
+    <script src="script.js" charset="UTF-8"></script>
+
+</body>
+
+</html>
