@@ -1,10 +1,10 @@
 let allData = [
-    { name: "Alienware Gaming Laptop", cat: "gaming", img: "assets/gaming_laptop.png", desc: "A high-performance machine with top-tier graphics and RGB lighting." },
-    { name: "Razer DeathAdder Mouse", cat: "gaming", img: "assets/gaming_mouse.png", desc: "Ergonomic gaming mouse with ultra-fast responsiveness." },
-    { name: "Atomic Habits & Focus Books", cat: "study", img: "assets/study_books.png", desc: "Build good habits and break bad ones with proven frameworks." },
-    { name: "Minimalist LED Desk Lamp", cat: "study", img: "assets/study_lamp.png", desc: "Eye-caring warm light with adjustable brightness for deep work." },
-    { name: "Sony WH-1000XM5 Headphones", cat: "music", img: "assets/music_headphones.png", desc: "Industry-leading noise cancellation and premium sound." },
-    { name: "Bose SoundLink Speakers", cat: "music", img: "assets/music_speakers.png", desc: "Deep, crisp, and clear audio with Bluetooth portability." },
+    { name: "Alienware Gaming Laptop", cat: "gaming", img: "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&w=300", desc: "A high-performance machine with top-tier graphics and RGB lighting." },
+    { name: "Razer DeathAdder Mouse", cat: "gaming", img: "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=300", desc: "Ergonomic gaming mouse with ultra-fast responsiveness." },
+    { name: "Atomic Habits & Focus Books", cat: "study", img: "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg?auto=compress&cs=tinysrgb&w=300", desc: "Build good habits and break bad ones with proven frameworks." },
+    { name: "Minimalist LED Desk Lamp", cat: "study", img: "https://images.pexels.com/photos/1123260/pexels-photo-1123260.jpeg?auto=compress&cs=tinysrgb&w=300", desc: "Eye-caring warm light with adjustable brightness for deep work." },
+    { name: "Sony WH-1000XM5 Headphones", cat: "music", img: "https://images.pexels.com/photos/3394665/pexels-photo-3394665.jpeg?auto=compress&cs=tinysrgb&w=300", desc: "Industry-leading noise cancellation and premium sound." },
+    { name: "Bose SoundLink Speakers", cat: "music", img: "https://images.pexels.com/photos/3736826/pexels-photo-3736826.jpeg?auto=compress&cs=tinysrgb&w=300", desc: "Deep, crisp, and clear audio with Bluetooth portability." },
     { name: "Bowflex Adjustable Dumbbells", cat: "fitness", img: "https://images.pexels.com/photos/3823039/pexels-photo-3823039.jpeg?auto=compress&cs=tinysrgb&w=300", desc: "Space-saving dumbbells with easily adjustable weights." },
     { name: "Premium Non-Slip Yoga Mat", cat: "fitness", img: "https://images.pexels.com/photos/3759657/pexels-photo-3759657.jpeg?auto=compress&cs=tinysrgb&w=300", desc: "Extra thick and textured surface for comfortable workouts." }
 ];
